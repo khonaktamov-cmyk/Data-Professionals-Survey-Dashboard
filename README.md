@@ -3,8 +3,8 @@
 An informative dashboard built with Microsoft Power BI to analyze survey data on data professionals' salaries, programming language preferences, career challenges, and job satisfaction.
 
 ## Dashboard Preview
+<img width="1317" height="741" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/f03f7d88-7652-4414-bdf6-f8b0b01503cf" />
 
-![Data Professionals Survey Dashboard](Dashboard_Screenshot.png)
 
 ## Key Insights
 
